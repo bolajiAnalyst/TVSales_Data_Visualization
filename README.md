@@ -6,4 +6,4 @@ The process started with **data cleaning**—removing duplicates, fixing formatt
 
 For impact and clear insights, the findings were visualized using **bar charts** with **legends** and **labels**. These visuals make it easy to see, at a glance, how Hisense and LG TVs perform against each other across different months in a year, and which brand dominates the market.
 
-The goal wasn’t just to make the numbers look tidy, but it was to provide decision-ready insights. Whether in a sales meeting or a business review, these charts offer a quick, accurate snapshot of performance and help guide marketing strategies, inventory planning, and promotional campaigns.
+The goal wasn’t just to make the numbers look tidy, but it was to provide decision-ready insights. Whether in a sales meeting or a business review, these charts offer a quick, accurate snapshot of performance and help guide marketing strategies, inventory planning, and drive campaigns.
